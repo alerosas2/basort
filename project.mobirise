@@ -940,7 +940,7 @@
             "bgColor": "fff",
             "filterBgColor": false,
             "fullWidth": true,
-            "showBullets": false
+            "showBullets": true
           },
           "_anchor": "gallery2-l",
           "articleLayout": false,
