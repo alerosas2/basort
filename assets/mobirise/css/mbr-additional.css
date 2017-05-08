@@ -477,7 +477,7 @@ h6,
   text-align: center;
 }
 #header3-7 H3 {
-  color: #b8312f;
+  color: #c2232a;
 }
 #features4-9 .card-subtitle {
   color: #bcbcbc;
@@ -485,6 +485,12 @@ h6,
 #features4-9 .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#features4-9 P {
+  color: #6e6e72;
+}
+#features4-9 H4 {
+  color: #6e6e72;
 }
 #msg-box8-a .mbr-section-title,
 #msg-box8-a p {
@@ -506,7 +512,7 @@ h6,
   text-align: center;
 }
 #header3-b H3 {
-  color: #b8312f;
+  color: #c2232a;
 }
 #features4-d .card-subtitle {
   color: #bcbcbc;
@@ -514,6 +520,12 @@ h6,
 #features4-d .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#features4-d P {
+  color: #6e6e72;
+}
+#features4-d H4 {
+  color: #6e6e72;
 }
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
@@ -527,7 +539,7 @@ h6,
   text-align: center;
 }
 #header3-f H3 {
-  color: #b8312f;
+  color: #c2232a;
 }
 #content1-g P {
   text-align: left;
@@ -538,6 +550,12 @@ h6,
 #features4-h .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
+}
+#features4-h P {
+  color: #6e6e72;
+}
+#features4-h H4 {
+  color: #6e6e72;
 }
 #msg-box5-i H3 {
   font-size: 30px;
