@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 34,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1080,6 +1080,50 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Contacto",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Para cualquier duda o cotización puede contactarnos<span style=\"font-size: 1.07rem; line-height: 1.5;\">a través de los siguientes medios:</span></p>",
+          "_styles": {
+            "UL": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
           "_inherit": "contacts3",
           "_styles": {
             "p, .list-group-text, .form-control-label": {
@@ -1133,7 +1177,7 @@
               "size": 0
             }
           },
-          "text1": "Contactanos!",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -1163,7 +1207,7 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">a</a>dministracion@basort.com<a href=\"mailto:support@mobirise.com\"><br></a>",
+          "text4": "administracion@basort.com<a href=\"mailto:support@mobirise.com\"><br></a>",
           "title1": "",
           "text5": "",
           "text6": "<br><br><br><strong>Facebook</strong><br>facebook/basortsocial<br>",

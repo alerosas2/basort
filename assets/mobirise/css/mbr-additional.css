@@ -563,6 +563,19 @@ h6,
 #header3-o H3 {
   color: #b8312f;
 }
+#header3-w .mbr-section-title,
+#header3-w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-w H3 {
+  color: #b8312f;
+}
+#content1-x UL {
+  text-align: right;
+}
+#content1-x P {
+  text-align: center;
+}
 #contacts5-s p,
 #contacts5-s .list-group-text,
 #contacts5-s .form-control-label {
