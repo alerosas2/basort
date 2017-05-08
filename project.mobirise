@@ -890,7 +890,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/oerlikon-balzers-2000x2384-800x953.jpg",
                 "image": "@PROJECT_PATH@/assets/images/oerlikon-balzers-2000x2384.jpg",
-                "caption": "Type caption here",
+                "caption": "Oerlikon Balzers",
                 "active": false
               },
               {
