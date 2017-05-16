@@ -22,12 +22,14 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -136,7 +138,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/imagen-1-portada2-2000x989.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -250,7 +252,7 @@
           },
           "title1": "Soluciones<br>BIM",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Nuestro principal distintivo es<br>el desarrollo BIM (Building<br>Information Modeling) en<br>cada uno de nuestros<br>proyectos, el cual a través de<br>la creación de un modelo<br>inteligente 3D, nos<br>proporciona una visión y<br>herramientas que mejoran el<br>diseño, la construcción y<br>gestión de edificios e<br>infraestructuras, mejorando<br>así el costo-beneficio de<br>nuestros clientes.&nbsp;<br>",
+          "caption1": "Nuestro principal distintivo es&nbsp;el desarrollo BIM (Building Information Modeling) en&nbsp;cada uno de nuestros&nbsp;proyectos, el cual a través de&nbsp;la creación de un modelo&nbsp;inteligente 3D, nos<br>proporciona una visión y&nbsp;herramientas que mejoran el&nbsp;diseño, la construcción y&nbsp;gestión de edificios e&nbsp;infraestructuras, mejorando&nbsp;así el costo-beneficio de&nbsp;nuestros clientes.&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -265,7 +267,7 @@
           },
           "title2": "Modelación 3D<br>/ Virtualización",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Todos los trabajos que<br>realizamos son modelados en<br>3D, lo que representa una<br>ventaja en el ahorro de<br>tiempo y la efectividad en los<br>diseños. Así mismo,<br>mejoramos la visualización de<br>todo el proyecto haciéndolo<br>más amigable y de mayor<br>calidad para el usuario final,<br>esto por medio de recorridos<br>virtuales y vistas de 360°.<br>",
+          "caption2": "Todos los trabajos que&nbsp;realizamos son modelados en&nbsp;3D, lo que representa una&nbsp;ventaja en el ahorro de&nbsp;tiempo y la efectividad en los&nbsp;diseños. Así mismo,&nbsp;mejoramos la visualización de<br>todo el proyecto haciéndolo&nbsp;más amigable y de mayor<br>calidad para el usuario final,&nbsp;esto por medio de recorridos&nbsp;virtuales y vistas de 360°.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -280,7 +282,7 @@
           },
           "title3": "Amplios<div>Conocimientos</div>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "En BASORT contamos con<br>especialistas y expertos para<br>cada una de nuestras áreas<br>que desarrollamos, quienes se<br>mantienen en constante<br>capacitación e innovación<br>que mejoran el proceso de<br>diseño.<br>",
+          "caption3": "En BASORT contamos con&nbsp;especialistas y expertos para<br>cada una de nuestras áreas&nbsp;que desarrollamos, quienes se<br>mantienen en constante&nbsp;capacitación e innovación&nbsp;que mejoran el proceso de&nbsp;diseño.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -467,7 +469,7 @@
           },
           "title1": "Misión",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Es nuestra misión<br>proporcionar a nuestros<br>clientes servicios de diseño y<br>cálculo con la mejor calidad.<br>",
+          "caption1": "Es nuestra misión&nbsp;proporcionar a nuestros<br>clientes servicios de diseño y&nbsp;cálculo con la mejor calidad.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -483,7 +485,7 @@
           },
           "title2": "Visión",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "En Basort nuestra visión para el<br>2020 es ser reconocidos como<br>uno de los grupos diseñadores<br>líderes de México con un<br>protagonismo singular en el<br>Estado de Querétaro.<br>",
+          "caption2": "En Basort nuestra visión para el&nbsp;2020 es ser reconocidos como&nbsp;uno de los grupos diseñadores&nbsp;líderes de México con un&nbsp;protagonismo singular en el&nbsp;Estado de Querétaro.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -498,7 +500,7 @@
           },
           "title3": "Valores",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "En Basort fomentamos<br>valores que definen el<br>carácter de nuestra<br>empresa, los cuales son:<br>Honestidad, Respeto,<br>Calidad, Nuestra gente,<br>Confianza, Responsabilidad<br>y Trabajo en Equipo.<br>",
+          "caption3": "En Basort fomentamos&nbsp;valores que definen el&nbsp;carácter de nuestra&nbsp;empresa, los cuales son:<br>Honestidad, Respeto,&nbsp;Calidad, Nuestra gente,&nbsp;Confianza, Responsabilidad&nbsp;y Trabajo en Equipo.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -597,18 +599,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "content1-g",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>En Basort, arquitectos, ingenieros, modeladores y especialistas trabajamos para&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">ofrecer un producto de calidad que permita a los inversionistas y clientes de&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">manera informada tomar las mejores decisiones. Ofrecemos servicios de&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">arquitectura tanto de especialidades teniendo esquemas escalables que se&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ajustan a las necesidades del cliente.</span></p>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text": "<p>En Basort, arquitectos, ingenieros, modeladores y especialistas trabajamos para&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">ofrecer un producto de calidad que permita a los inversionistas y clientes de&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">manera informada tomar las mejores decisiones. Ofrecemos servicios de&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">arquitectura tanto de especialidades teniendo esquemas escalables que se&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ajustan a las necesidades del cliente.</span></p>"
         },
         {
           "_styles": {
@@ -668,7 +670,7 @@
           },
           "title1": "Diseño<div>Arquitectónico</div>",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Realizamos cualquier concepto<br>arquitectónico con las<br>necesidades más exigentes y lo<br>aterrizamos a una realidad<br>dentro de un ambiente BIM.<br>",
+          "caption1": "Realizamos cualquier concepto&nbsp;arquitectónico con las&nbsp;necesidades más exigentes y lo&nbsp;aterrizamos a una realidad<br>dentro de un ambiente BIM.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -684,7 +686,7 @@
           },
           "title2": "Instalaciones",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "En Basort podemos integrar su<br>modelo a un ciclo BIM,<br>creando así construcciones<br>virtuales que mejoran la<br>coordinación del proyecto que<br>ofrece información consistente<br>y de alta fidelidad.&nbsp;<br>",
+          "caption2": "En Basort podemos integrar su&nbsp;modelo a un ciclo BIM,&nbsp;creando así construcciones&nbsp;virtuales que mejoran la&nbsp;coordinación del proyecto que&nbsp;ofrece información consistente&nbsp;y de alta fidelidad.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -754,6 +756,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          },
           "_anchor": "msg-box5-i",
           "_params": {
             "imageSize": "31",
@@ -800,12 +807,7 @@
           },
           "title": "Virtualización",
           "text": "Con la creación de los modelos 3D que desarrollamos&nbsp;para los proyectos, la virtualización de estos (Recorridos&nbsp;virtuales, renders, vistas 360°, etc..) se hacen de manera&nbsp;conjunta gracias a la participación de Astatine Studios.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -966,101 +968,40 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Nuestro Equipo",
-          "meta": "Nuestros profesionales"
+          "title": "Nosotros",
+          "meta": ""
         },
         {
-          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "gallery1",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pedro-2000x2094-800x837.png",
-                "image": "@PROJECT_PATH@/assets/images/pedro-2000x2094.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vic-2000x2094-800x837.png",
-                "image": "@PROJECT_PATH@/assets/images/vic-2000x2094.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/max-2000x2094-800x837.png",
-                "image": "@PROJECT_PATH@/assets/images/max-2000x2094.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gina-2000x2094-800x837.png",
-                "image": "@PROJECT_PATH@/assets/images/gina-2000x2094.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diana-2000x2094-800x837.png",
-                "image": "@PROJECT_PATH@/assets/images/diana-2000x2094.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fer-2000x2094-800x837.png",
-                "image": "@PROJECT_PATH@/assets/images/fer-2000x2094.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/arantza-2000x2094-800x837.png",
-                "image": "@PROJECT_PATH@/assets/images/arantza-2000x2094.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/eduardo-2000x2094-800x837.png",
-                "image": "@PROJECT_PATH@/assets/images/eduardo-2000x2094.png",
+                "thumb": "@PROJECT_PATH@/assets/images/pedro2-2000x2500-800x1000.png",
+                "image": "@PROJECT_PATH@/assets/images/pedro2-2000x2500.png",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vic2-2000x2500-800x1000.png",
+                "image": "@PROJECT_PATH@/assets/images/vic2-2000x2500.png",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
-            "spacing": "0",
+            "spacing": "6",
             "showText": false,
             "filter": false,
             "bgColor": "#cccccc",
@@ -1068,7 +1009,7 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery2-n",
+          "_anchor": "gallery1-z",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1114,31 +1055,6 @@
           }
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-y",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "SHARE THIS PAGE!"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1166,13 +1082,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-x",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Para cualquier duda o cotización puede contactarnos<span style=\"font-size: 1.07rem; line-height: 1.5;\">a través de los siguientes medios:</span></p>",
           "_styles": {
             "UL": {
               "text-align": "right"
@@ -1180,7 +1089,14 @@
             "P": {
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "content1-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Para cualquier duda o cotización puede contactarnos<span style=\"font-size: 1.07rem; line-height: 1.5;\">a través de los siguientes medios:</span></p>"
         },
         {
           "_inherit": "contacts3",
